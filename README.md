@@ -20,7 +20,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-- :telescope: I’m working as a front-end engineer and also contributing to frontend for building web applications and software's.
+- :telescope: I’m working as a front-end developer and also contributing to building web applications and software's.
 
 - :seedling: “Innovating with blockchain to create a more transparent and equitable world.”.
 

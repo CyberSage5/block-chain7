@@ -20,11 +20,11 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-- :telescope: I’m working as a front-end developer and also contributing to building web applications and software's.
+- :telescope: I’m working as a software developer in the Web 3 and blockchain space and also contributing to building decentralized web applications and software's.
 
-- :seedling: “Innovating with blockchain to create a more transparent and equitable world.”.
+- :seedling: “Innovating with blockchain to create a more transparent and equitable world🌐. Crafting decentralized dreams into reality. 🔗 turning code into decentralized magic.💻🌍  ” .
 
-- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
+- :zap: In my free time, I solve problems on codewars and read tech articles.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/terfa-john-8114219j/)
 - <div>

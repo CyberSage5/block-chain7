@@ -63,3 +63,25 @@ style="vertical-align:top; margin: 4px">
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=block-chain7&theme=dark)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=block-chain7&layout=donut)](https://github.com/block-chain7/github-readme-stats)
 ---
+
+### Some Quotes  
+![Listening to on Spotify](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
+<br />
+
+----

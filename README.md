@@ -24,7 +24,7 @@
 </div>
 - :telescope: I’m working as a software developer in the Web 3 and blockchain space and also contributing to building decentralized web applications and software's.
 
-- :seedling: “Innovating with blockchain to create a more transparent and equitable world🌐. Crafting decentralized dreams into reality. 🔗 turning code into decentralized magic.💻🌍  ” .
+- :seedling: “Innovating with Blockchain to create a more transparent and equitable world🌐. Crafting decentralized dreams into reality. 🔗 turning code into decentralized magic.💻🌍  ” .
 
 - :zap: In my free time, I solve problems on codewars and read tech articles.
 

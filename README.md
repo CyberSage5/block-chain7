@@ -22,7 +22,7 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-- :telescope: I’m working as a software developer in the Web 3 and blockchain space and also contributing to building decentralized web applications and software's.
+- :telescope: I’m working as a software developer  contributing to building web applications and software's.
 
 - :seedling: “Innovating  to create a more transparent and equitable world🌐. Crafting decentralized dreams into reality. 🔗 turning code into decentralized magic.💻🌍  ” .
 
